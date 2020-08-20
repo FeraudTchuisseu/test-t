@@ -1,18 +1,10 @@
 ********************************************************************************
-<<<<<<< HEAD
-**  COVID-19 Note: Real-time Covid-19 Factsheet for SSA Countries
-=======
-**  COVID-19 Note: Covid-19 Factsheet for SSA Countries
->>>>>>> Feraud
+**  COVID-19 Note: Covid-19 Factsheet
 **
 **  Prepared by : Feraud Tchuisseu Seuyong 
 **                World Bank Consulatnt
 **				  ftchuisseuseuyon@worldbank.org/ feraudseuyong@gmail.com
-<<<<<<< HEAD
-**				  August 2020
-=======
 **				  September 2020
->>>>>>> Feraud
 ********************************************************************************
 global root "C:\Users\Feraud Tchuisseu\Documents\Project\WBG\Mobility"
 
